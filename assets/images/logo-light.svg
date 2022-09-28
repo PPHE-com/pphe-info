@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3544 1772" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(6.15399,0,0,6.15399,1771.65,885.827)">
+        <g transform="matrix(1,0,0,1,-402.5,-156.5)">
+            <g transform="matrix(1,0,0,1,-4.8003,-3.38352)">
+                <path d="M518.695,78.111C518.695,46.779 493.257,21.341 461.924,21.341L348.384,21.341C317.051,21.341 291.614,46.779 291.614,78.111L291.614,241.156C291.614,272.489 317.051,297.926 348.384,297.926L461.924,297.926C493.257,297.926 518.695,272.489 518.695,241.156L518.695,78.111Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(0.41444,0,0,0.41444,319.857,141.1)">
+                <text x="0px" y="0px" style="font-family:'LEMONMILK-Bold', 'LEMON MILK';font-weight:700;font-size:269.865px;fill:rgb(48,48,48);">P</text>
+            </g>
+            <g transform="matrix(0.41444,0,0,0.41444,402.502,163.287)">
+                <text x="0px" y="0px" style="font-family:'LEMONMILK-Bold', 'LEMON MILK';font-weight:700;font-size:269.865px;fill:rgb(48,48,48);">P</text>
+            </g>
+            <g transform="matrix(0.41444,0,0,0.41444,319.857,237.216)">
+                <text x="0px" y="0px" style="font-family:'LEMONMILK-Bold', 'LEMON MILK';font-weight:700;font-size:269.865px;fill:rgb(48,48,48);">H</text>
+            </g>
+            <g transform="matrix(0.41444,0,0,0.41444,402.502,259.432)">
+                <text x="0px" y="0px" style="font-family:'LEMONMILK-Bold', 'LEMON MILK';font-weight:700;font-size:269.865px;fill:rgb(48,48,48);">E</text>
+            </g>
+        </g>
+    </g>
+</svg>
