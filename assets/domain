@@ -1,0 +1,5 @@
+$ dig pphe.info +noall +answer -t AAAA
+> pphe.info     3600    IN AAAA     2606:50c0:8000::153
+> pphe.info     3600    IN AAAA     2606:50c0:8001::153
+> pphe.info     3600    IN AAAA     2606:50c0:8002::153
+> pphe.info     3600    IN AAAA     2606:50c0:8003::153
